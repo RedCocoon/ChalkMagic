@@ -9,6 +9,6 @@ The target "My", "Mine", "I", and other pronounces alike are refering to the per
 
 3) A detailed download guide is packed together with each version's zip file. Unzip the zip to obtain it if you are having trouble installing it.
 
-4) If there's any errors encountered while using the pack, please report it on github (https://github.com/RedCocoon/RedPlantation/issues)
+4) If there's any errors encountered while using the pack, please report it on github (https://github.com/RedCocoon/ChalkMagic/issues)
 
 5) For troubleshooting, legal uses or anything similar, you may contact me via reddit (u/redcocoon) or discord (Cocoon#5487.)
